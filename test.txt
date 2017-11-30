@@ -1,6 +1,3 @@
 WAFSAF
-<<<<<<< HEAD
-sdadsad
-=======
-sdadsa
->>>>>>> 25a030dbdc6f9a47d9a7983d3b4ba28062c87cbd
+sdadsass
+sdasd
